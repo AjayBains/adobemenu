@@ -6,12 +6,12 @@ function App() {
     <>
       <div className="bg-gradient-to-r from-sky-500 to-indigo-500 h-screen">
         <div className="flex justify-center items-center h-screen">
-          <div className="w-[200px] h-14 bg-white rounded-2xl flex  justify-center items-center  p-2">
+          <div className="w-[200px] h-14 bg-white rounded-2xl flex  justify-center items-center gap-2 p-2">
             <img
               src="
             /src/assets/dart.png"
               className="w-8 h-4"
-              alt="Dart logo"
+              alt="logo"
             />
             <p className="text-bold">Dart</p>
           </div>
