@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .join:after {
+  content: "";
+  position: absolute;
+  top: 7px;
+  right: 2px;
+  /* right: 0; */
+/* right: 2; */
+/* height: 10.25rem;
+  width: 140px;
+  background: "red";
+  border-top-left-radius: 50% 20%;
+  border-top-right-radius: 50% 20%;
+  user-select: none; */
+/* } */
